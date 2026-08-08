@@ -1,0 +1,47 @@
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Binary Model Files & Checkpoints
+*.pth
+*.pt
+*.h5
+*.joblib
+*.ckpt
+
+# Data Artifacts & Saved Arrays
+*.npy
+*.npz
+*.pkl
+*.csv
+
+# Archives & Logs
+*.zip
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Internal Agent Framework Artifacts
+.agents/
+PROJECT.md
+
